@@ -27,7 +27,6 @@ Files containing data points must have the following schema: Each instance must 
 Example:
 
 object_id \t data_point_id \t label \t feature_1 \t ..... \t feature_n
-
 train_object_1 \t id_1 \t 0.4 \t 1.0 \t .... \t 0.5
 
 For testing, "label" column is dropped.
